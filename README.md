@@ -5,9 +5,11 @@ Projeto desenvolvido durante o NLW #03 da RocketSeat de uma aplicação **Back-e
 * ReactJS
 * NodeJS
 * JavaScript
+* TypeScript
 * HTML
 * CSS
 * MySQL
+* Sequelize
 
 ### :camera: Landing Page
 ![Landing Page](images/Happy%20-%20Landing%20Page.PNG)
