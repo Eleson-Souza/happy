@@ -23,7 +23,7 @@ Este projeto está sob a licença MIT License - veja o arquivo [LICENSE.md](http
 
 * Eleson Souza
 
-### Social
+### :briefcase: Social
 [Acesse meus repositórios GitHub](https://github.com/Eleson-Souza?tab=repositories)
 
 [Acesse meu LinkedIn](https://www.linkedin.com/in/eleson-souza-97735a174/)
